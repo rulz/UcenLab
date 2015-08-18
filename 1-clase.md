@@ -1,5 +1,7 @@
-UcenLab
+UcenLab Django
 =========
+información sobre [Django](https://www.djangoproject.com/)
+
 Pasos a seguir para instalar y crear Django
 
 ***1. Instalar [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/)***
