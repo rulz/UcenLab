@@ -74,6 +74,7 @@ class EntidadAdmin(admin.ModelAdmin):
     pass
 ```
 **7. Crear un registro de la entidad creada***
+
 tiene que ir a la url
 ```
 127.0.0.1:8000/admin/
