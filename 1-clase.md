@@ -81,7 +81,8 @@ tiene que ir a la url
 ```
 hacer click en la entidad creada
 
-***8. Cree otra entidad con una llave foranea de la entidad anterior***
+***8. Cree un registro de esa entidad***
+***9. Cree otra entidad con una llave foranea de la entidad anterior***
 
 
 
