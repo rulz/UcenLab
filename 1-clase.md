@@ -88,6 +88,9 @@ hacer click en la entidad creada
 
 
 
+``` esto es para windows portable django http://www.pythondiary.com/blog/Apr.10,2012/instant-django-release-information.html ```
+
+
 
 
 
